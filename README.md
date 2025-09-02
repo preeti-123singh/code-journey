@@ -1,4 +1,4 @@
 # code-journey
 this is my first git repository
 <br>
-author-preeti singh
+author-preeti (code journey)
