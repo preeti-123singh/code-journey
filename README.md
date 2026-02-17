@@ -9,15 +9,15 @@ This repository contains my coding practice and projects.
 - C Programming
 - Data Structures(basics)
   
-  ## Currently Improving
-  -Advanced JavaScript
-  -CSS Styling and Responsive Design
-  -Problem Solving Skills
-  -Building Real World Projects
+ ## Currently Improving
+  - Advanced JavaScript
+  - CSS Styling and Responsive Design
+  - Problem Solving Skills
+  - Building Real World Projects
   
-  ## Projects
+ ## Projects
   
-  ### Traffic Management System
+ ### Traffic Management System
   A System designed to manage and optimize traffic flow using structured logic and system design concepts.
   
   ### AI Resume and Job Description Matcher
