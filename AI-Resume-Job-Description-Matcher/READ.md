@@ -20,3 +20,12 @@
     python app.py
  5. open browser at:
     http://.0.0.1:5000/
+
+## Team Members
+- Preeti Singh-(https://github.com/preeti-123singh)
+- Sneha Kumari
+- Shipra Shahni
+- Anamika Kumari
+
+## Project Guide
+- Pankaj Kumar(Assistant Professsor,Buddha Institute of Technology GIDA Gorakhour
