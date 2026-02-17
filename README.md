@@ -8,7 +8,7 @@ This repository contains my coding practice and projects.
 - JavaScript(fundamentals)
 - C Programming
 - Data Structures(basics)
-- 
+  
   ## Currently Improving
   -Advanced JavaScript
   -CSS Styling and Responsive Design
