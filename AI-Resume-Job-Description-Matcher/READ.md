@@ -33,7 +33,7 @@
 ! [Result Page] (result.jpeg,result1.jpeg,result2.jpeg)
 
 ## Team Members
-- Preeti Singh-(https://github.com/preeti-123singh/code-journey/tree/main/AI-Resume-Job-Description-Matcher)
+- Preeti Singh-(https://github.com/preeti-123singh)
 - Sneha Kumari-(https://github.com/snehakumari123507)
 - Shipra Shahni-(https://github.com/shiprasahani89-max)
 - Anamika Kumari
